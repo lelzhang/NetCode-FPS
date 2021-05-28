@@ -11,6 +11,9 @@ EditorUserSettings:
     Entity Inspector Settings:
       value: 183b144645154b790c0d07271e271d4a564654406c6866706f0d1420f2ec3521c1e83bf9e8343a322d36f62c017c5b7ff40b0518f36117
       flags: 0
+    RecentlyUsedScenePath-0:
+      value: 22424703114646680e0b02275f0d5a0435021a2f623d28393930
+      flags: 0
     lightmappingDeviceAndPlatform:
       value: 53
       flags: 0
@@ -27,5 +30,7 @@ EditorUserSettings:
   m_SemanticMergeMode: 2
   m_VCShowFailedCheckout: 1
   m_VCOverwriteFailedCheckoutAssets: 1
-  m_VCOverlayIcons: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
   m_VCAllowAsyncUpdate: 0
